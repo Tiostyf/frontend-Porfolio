@@ -1,0 +1,28 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+header{
+background-color: black;
+color: aliceblue;
+height: 20vh;
+display: flex;
+justify-content: center;
+align-items: center;
+justify-content: space-evenly;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: medium;
+font-weight: bold;
+font-style: italic;
+}
+.section1{
+    background-color: violet;
+    height: 100vh;
+}
+.section2{
+    background-color:blue;
+    height: 100vh;
+}
+.first{
+     background-color:ghostwhite;
+    height: 100vh;
+}
